@@ -1,270 +1,222 @@
 {
-  "Mockups": [
+  "Goldfields-Esperance, WA": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80903-160133.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80903-160133.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80903-160133.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80904-061410.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80904-061410.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80904-061410.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80904-102311.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80904-102311.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80904-102311.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80907-072917.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80907-072917.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80907-072917.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80907-072952.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80907-072952.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80907-072952.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80907-073445.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80907-073445.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80907-073445.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80907-104029.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80907-104029.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80907-104029.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80910-081111.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80910-081111.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80910-081111.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-082835.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-082835.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-082835.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-082930.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-082930.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-082930.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-085735.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-085735.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-085735.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 4000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-085744.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-085744.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-085744.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 4000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-095432.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-095432.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-095432.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 4000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-095503.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-095503.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-095503.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Goldfields-Esperance, WA/P80911-122640 - Copy.jpg",
+      "compressed_path": "./photos/Goldfields-Esperance, WA/P80911-122640 - Copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Goldfields-Esperance, WA/P80911-122640 - Copy.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Tallangatta Valley, VIC": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "width": 720,
+      "height": 960,
+      "path": "./photos/Tallangatta Valley, VIC/44257044_1860503013986659_996098101007613952_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44257044_1860503013986659_996098101007613952_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44257044_1860503013986659_996098101007613952_n.placeholder.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Tallangatta Valley, VIC/44337377_1860502540653373_2616046407986970624_n (1).jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44337377_1860502540653373_2616046407986970624_n (1).min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44337377_1860502540653373_2616046407986970624_n (1).placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Tallangatta Valley, VIC/44337377_1860502540653373_2616046407986970624_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44337377_1860502540653373_2616046407986970624_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44337377_1860502540653373_2616046407986970624_n.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Tallangatta Valley, VIC/44380807_1860502730653354_5508618250897850368_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44380807_1860502730653354_5508618250897850368_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44380807_1860502730653354_5508618250897850368_n.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Tallangatta Valley, VIC/44941783_1876627355707558_7801882812730048512_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44941783_1876627355707558_7801882812730048512_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44941783_1876627355707558_7801882812730048512_n.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Tallangatta Valley, VIC/44941986_1876627165707577_4105109696904429568_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44941986_1876627165707577_4105109696904429568_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44941986_1876627165707577_4105109696904429568_n.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "width": 960,
+      "height": 919,
+      "path": "./photos/Tallangatta Valley, VIC/44943298_1876627472374213_434881939984351232_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44943298_1876627472374213_434881939984351232_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44943298_1876627472374213_434881939984351232_n.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "width": 720,
+      "height": 960,
+      "path": "./photos/Tallangatta Valley, VIC/44954312_1876627259040901_5308653962394599424_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44954312_1876627259040901_5308653962394599424_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44954312_1876627259040901_5308653962394599424_n.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Tallangatta Valley, VIC/44962008_1876627205707573_8488303326335598592_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44962008_1876627205707573_8488303326335598592_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44962008_1876627205707573_8488303326335598592_n.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Tallangatta Valley, VIC/44979622_321300548661917_4433954383318745088_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44979622_321300548661917_4433954383318745088_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44979622_321300548661917_4433954383318745088_n.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Tallangatta Valley, VIC/44983980_1876627382374222_2053627604581220352_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/44983980_1876627382374222_2053627604581220352_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/44983980_1876627382374222_2053627604581220352_n.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
-    },
-    {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
-    },
-    {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
-    },
-    {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
-    },
-    {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
-    },
-    {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
-    },
-    {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
-    },
-    {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
-    },
-    {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
-    },
-    {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
-    },
-    {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
-    },
-    {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
-    },
-    {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
-    },
-    {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Tallangatta Valley, VIC/45000647_1703058223155964_2572380497690755072_n.jpg",
+      "compressed_path": "./photos/Tallangatta Valley, VIC/45000647_1703058223155964_2572380497690755072_n.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tallangatta Valley, VIC/45000647_1703058223155964_2572380497690755072_n.placeholder.jpg"
     }
   ]
 }
