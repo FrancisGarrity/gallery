@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  font-family: 'menlo', 'Monaco', 'Consolas', 'monospace';
 }
 
 #container {
@@ -15,7 +15,7 @@ body {
   font-size: 30px;
   font-weight: 900;
   letter-spacing: 3px;
-  text-transform: uppercase;
+ 
 }
 
 section {
@@ -41,7 +41,7 @@ h3 {
 
   color: #666;
   font-size: 16px;
-  text-transform: uppercase;
+  
   font-weight: 400;
   letter-spacing: 2px;
 }
